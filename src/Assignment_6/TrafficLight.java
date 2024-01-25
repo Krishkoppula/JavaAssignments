@@ -1,37 +1,64 @@
 package Assignment_6;
 
 public class TrafficLight {
+    // Private attributes
     private String color;
     private int duration;
-    public TrafficLight(String color,int duration){
-        this.color=color;
-        this.duration=duration;
-        System.out.println("Current Signal is:"+color);
-        System.out.println("Duration:"+duration+" Seconds");
+
+    // Constructor to initialize attributes
+    public TrafficLight(String initialColor, int initialDuration) {
+        this.color = initialColor;
+        this.duration = initialDuration;
     }
-    public String getColor(){
+
+    // Getter for color
+    public String getColor() {
         return color;
     }
-    public void setColor(){
-        this.color=color;
+
+    // Setter for color
+    public void setColor(String newColor) {
+        this.color = newColor;
     }
-    public int getDuration(){
+
+    // Getter for duration
+    public int getDuration() {
         return duration;
     }
-    public void setDuration(){
-        this.duration=duration;
-    }
-    public void changeColor(String newColor){
-        System.out.println("Traffic Light is changing to: "+newColor);
-        System.out.println("Duration "+newColor);
 
+    // Setter for duration
+    public void setDuration(int newDuration) {
+        this.duration = newDuration;
     }
 
+    // Method to change the color
+    public void changeColor(String newColor) {
+        setColor(newColor);
+        System.out.println("Traffic light changed to " + newColor + " color.");
+    }
 
-    public static void main(String[] args){
-        System.out.println("Traffic Signal");
-        TrafficLight obj1= new TrafficLight("Red",20);
-        obj1.changeColor("green");
+    // Method to check if the light is red
+    public boolean isRed() {
+        return color.equalsIgnoreCase("red");
+    }
 
+    // Method to check if the light is green
+    public boolean isGreen() {
+        return color.equalsIgnoreCase("green");
+    }
+
+    public static void main(String[] args) {
+        // Example usage
+        TrafficLight trafficLight = new TrafficLight("red", 30);
+
+        System.out.println("Current color: " + trafficLight.getColor());
+        System.out.println("Is it red? " + trafficLight.isRed());
+        System.out.println("Is it green? " + trafficLight.isGreen());
+
+        trafficLight.changeColor("green");
+
+        System.out.println("Current color: " + trafficLight.getColor());
+        System.out.println("Is it red? " + trafficLight.isRed());
+        System.out.println("Is it green? " + trafficLight.isGreen());
     }
 }
