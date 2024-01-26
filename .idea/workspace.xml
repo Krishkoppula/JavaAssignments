@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e3b33b07-924a-4e58-a315-a47d98140dea" name="Changes" comment="Assignment_6">
+    <list default="true" id="e3b33b07-924a-4e58-a315-a47d98140dea" name="Changes" comment="Assignment_6&#10; Traffic Light">
+      <change afterPath="$PROJECT_DIR$/src/Assignment_7/Table.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Assignment_6/TrafficLight.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Assignment_6/TrafficLight.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,33 +49,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Assignment_1.executor": "Run",
-    "Application.Assignment_2.executor": "Run",
-    "Application.Assignment_3.executor": "Run",
-    "Application.Assignment_4.executor": "Run",
-    "Application.Assignment_5.executor": "Run",
-    "Application.Assignment_6.executor": "Run",
-    "Application.Employee.executor": "Run",
-    "Application.EmployeeInfo.executor": "Run",
-    "Application.HelloWorld.executor": "Run",
-    "Application.TrafficLight.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "C:/Users/saikr/IdeaProjects/Java Assignments/src/Main.java"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Assignment_1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Assignment_2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Assignment_3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Assignment_4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Assignment_5.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Assignment_6.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Employee.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EmployeeInfo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HelloWorld.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TrafficLight.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/saikr/IdeaProjects/Java Assignments/src/Main.java&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.TrafficLight">
-    <configuration name="Assignment_6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Assignment_6" />
-      <module name="Java Assignments" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+}</component>
+  <component name="RunManager" selected="Application.Table">
     <configuration name="Employee" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Assignment_6.Employee" />
       <module name="Java Assignments" />
@@ -115,6 +108,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Table" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Assignment_7.Table" />
+      <module name="Java Assignments" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Assignment_7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TrafficLight" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Assignment_6.TrafficLight" />
       <module name="Java Assignments" />
@@ -130,11 +136,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Table" />
         <item itemvalue="Application.TrafficLight" />
         <item itemvalue="Application.HelloWorld" />
         <item itemvalue="Application.Employee" />
         <item itemvalue="Application.EmployeeInfo" />
-        <item itemvalue="Application.Assignment_6" />
       </list>
     </recent_temporary>
   </component>
@@ -194,7 +200,15 @@
       <option name="project" value="LOCAL" />
       <updated>1706143080722</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Assignment_6&#10; Traffic Light">
+      <option name="closed" value="true" />
+      <created>1706154294687</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1706154294687</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -212,7 +226,8 @@
     <MESSAGE value="NEw Repository" />
     <MESSAGE value="Asiignment 5" />
     <MESSAGE value="Assignment_6" />
-    <option name="LAST_COMMIT_MESSAGE" value="Assignment_6" />
+    <MESSAGE value="Assignment_6&#10; Traffic Light" />
+    <option name="LAST_COMMIT_MESSAGE" value="Assignment_6&#10; Traffic Light" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
