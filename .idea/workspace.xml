@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e3b33b07-924a-4e58-a315-a47d98140dea" name="Changes" comment="Assignment_7 &#10;&#10;Sum of even And odd">
-      <change beforePath="$PROJECT_DIR$/src/Assignment_7/SumOfEvenOdd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Assignment_7/SumOfEvenOdd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment_7/Problem_4.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,6 +60,7 @@
     "Application.EmployeeInfo.executor": "Run",
     "Application.HelloWorld.executor": "Run",
     "Application.Months.executor": "Run",
+    "Application.Problem_4.executor": "Run",
     "Application.SumOfEvenOdd.executor": "Run",
     "Application.Table.executor": "Run",
     "Application.TrafficLight.executor": "Run",
@@ -70,13 +71,13 @@
     "onboarding.tips.debug.path": "C:/Users/saikr/IdeaProjects/Java Assignments/src/Main.java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.SumOfEvenOdd">
-    <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Assignment_6.HelloWorld" />
+  <component name="RunManager" selected="Application.Problem_4">
+    <configuration name="Months" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Assignment_7.Months" />
       <module name="Java Assignments" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Assignment_6.*" />
+          <option name="PATTERN" value="Assignment_7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -84,8 +85,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Months" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Assignment_7.Months" />
+    <configuration name="Problem_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Assignment_7.Problem_4" />
       <module name="Java Assignments" />
       <extension name="coverage">
         <pattern>
@@ -138,11 +139,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Problem_4" />
         <item itemvalue="Application.SumOfEvenOdd" />
         <item itemvalue="Application.Table" />
         <item itemvalue="Application.Months" />
         <item itemvalue="Application.TrafficLight" />
-        <item itemvalue="Application.HelloWorld" />
       </list>
     </recent_temporary>
   </component>
@@ -242,7 +243,15 @@
       <option name="project" value="LOCAL" />
       <updated>1706242119420</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Assignment_7 &#10;&#10;Sum of even And odd">
+      <option name="closed" value="true" />
+      <created>1706242243075</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1706242243075</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
