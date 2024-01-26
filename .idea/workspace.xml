@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e3b33b07-924a-4e58-a315-a47d98140dea" name="Changes" comment="Assignment_7 &#10;&#10;Month">
-      <change afterPath="$PROJECT_DIR$/src/Assignment_7/SumOfEvenOdd.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Assignment_7/Table.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Assignment_7/Table.java" afterDir="false" />
+    <list default="true" id="e3b33b07-924a-4e58-a315-a47d98140dea" name="Changes" comment="Assignment_7 &#10;&#10;Sum of even And odd">
+      <change beforePath="$PROJECT_DIR$/src/Assignment_7/SumOfEvenOdd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Assignment_7/SumOfEvenOdd.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,27 +48,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Assignment_1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Assignment_2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Assignment_3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Assignment_4.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Assignment_5.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Assignment_6.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Employee.executor&quot;: &quot;Run&quot;,
-    &quot;Application.EmployeeInfo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.HelloWorld.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Months.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Table.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TrafficLight.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/saikr/IdeaProjects/Java Assignments/src/Main.java&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Assignment_1.executor": "Run",
+    "Application.Assignment_2.executor": "Run",
+    "Application.Assignment_3.executor": "Run",
+    "Application.Assignment_4.executor": "Run",
+    "Application.Assignment_5.executor": "Run",
+    "Application.Assignment_6.executor": "Run",
+    "Application.Employee.executor": "Run",
+    "Application.EmployeeInfo.executor": "Run",
+    "Application.HelloWorld.executor": "Run",
+    "Application.Months.executor": "Run",
+    "Application.SumOfEvenOdd.executor": "Run",
+    "Application.Table.executor": "Run",
+    "Application.TrafficLight.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "C:/Users/saikr/IdeaProjects/Java Assignments/src/Main.java"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="Application.SumOfEvenOdd">
     <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Assignment_6.HelloWorld" />
@@ -227,7 +226,23 @@
       <option name="project" value="LOCAL" />
       <updated>1706230138286</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Assignment_7 &#10;&#10;Sum of even And odd">
+      <option name="closed" value="true" />
+      <created>1706242103935</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1706242103935</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Assignment_7 &#10;&#10;Sum of even And odd">
+      <option name="closed" value="true" />
+      <created>1706242119420</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1706242119420</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -248,7 +263,8 @@
     <MESSAGE value="Assignment_6&#10; Traffic Light" />
     <MESSAGE value="Assignment_7 &#10;&#10;Table Program" />
     <MESSAGE value="Assignment_7 &#10;&#10;Month" />
-    <option name="LAST_COMMIT_MESSAGE" value="Assignment_7 &#10;&#10;Month" />
+    <MESSAGE value="Assignment_7 &#10;&#10;Sum of even And odd" />
+    <option name="LAST_COMMIT_MESSAGE" value="Assignment_7 &#10;&#10;Sum of even And odd" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

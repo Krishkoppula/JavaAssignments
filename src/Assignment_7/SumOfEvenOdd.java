@@ -13,10 +13,9 @@ public class SumOfEvenOdd {
                 oddSum += i;
             }
         }
-
         System.out.println("Sum of the first 10 even numbers: " + evenSum);
         System.out.println("Sum of the first 10 odd numbers: " + oddSum);
-
     }
 }
+
 
