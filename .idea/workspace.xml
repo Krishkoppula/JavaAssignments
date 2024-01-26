@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e3b33b07-924a-4e58-a315-a47d98140dea" name="Changes" comment="Assignment_7 &#10;&#10;Sum of even And odd">
-      <change afterPath="$PROJECT_DIR$/src/Assignment_7/Problem_4.java" afterDir="false" />
+    <list default="true" id="e3b33b07-924a-4e58-a315-a47d98140dea" name="Changes" comment="Assignment_7 &#10;&#10;Factorial">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Assignment_7/Factorial.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Assignment_7/Factorial.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,6 +59,7 @@
     "Application.Assignment_6.executor": "Run",
     "Application.Employee.executor": "Run",
     "Application.EmployeeInfo.executor": "Run",
+    "Application.Factorial.executor": "Run",
     "Application.HelloWorld.executor": "Run",
     "Application.Months.executor": "Run",
     "Application.Problem_4.executor": "Run",
@@ -71,7 +73,20 @@
     "onboarding.tips.debug.path": "C:/Users/saikr/IdeaProjects/Java Assignments/src/Main.java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Problem_4">
+  <component name="RunManager" selected="Application.Factorial">
+    <configuration name="Factorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Assignment_7.Factorial" />
+      <module name="Java Assignments" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Assignment_7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Months" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Assignment_7.Months" />
       <module name="Java Assignments" />
@@ -124,26 +139,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TrafficLight" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Assignment_6.TrafficLight" />
-      <module name="Java Assignments" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Assignment_6.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Factorial" />
         <item itemvalue="Application.Problem_4" />
         <item itemvalue="Application.SumOfEvenOdd" />
         <item itemvalue="Application.Table" />
         <item itemvalue="Application.Months" />
-        <item itemvalue="Application.TrafficLight" />
       </list>
     </recent_temporary>
   </component>
@@ -251,7 +253,23 @@
       <option name="project" value="LOCAL" />
       <updated>1706242243075</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Assignment_7 &#10;&#10;Sum of even And odd">
+      <option name="closed" value="true" />
+      <created>1706242867983</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1706242867983</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Assignment_7 &#10;&#10;Factorial">
+      <option name="closed" value="true" />
+      <created>1706284062251</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1706284062251</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -273,7 +291,8 @@
     <MESSAGE value="Assignment_7 &#10;&#10;Table Program" />
     <MESSAGE value="Assignment_7 &#10;&#10;Month" />
     <MESSAGE value="Assignment_7 &#10;&#10;Sum of even And odd" />
-    <option name="LAST_COMMIT_MESSAGE" value="Assignment_7 &#10;&#10;Sum of even And odd" />
+    <MESSAGE value="Assignment_7 &#10;&#10;Factorial" />
+    <option name="LAST_COMMIT_MESSAGE" value="Assignment_7 &#10;&#10;Factorial" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

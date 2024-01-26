@@ -20,6 +20,10 @@ public class Factorial {
             fact=fact*i;
         }
         System.out.println("The factorial of "+num+" is: "+fact);
+        System.out.println("Enter second Number to get the factorial with recursive Function: ");
+        int num2=input.nextInt();
+        double fact1= Factorial(num2);
+        System.out.println("The factorial of second number "+num2+" is: "+fact1);
     }
 
 }
