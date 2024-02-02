@@ -12,6 +12,7 @@ class HrManager extends Employee{
         System.out.println("Hr Manager Is working");
     }
     void addEmployee(){
+
         System.out.println("He/She can add new employee");
     }
     void getSalary(){
