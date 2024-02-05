@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e3b33b07-924a-4e58-a315-a47d98140dea" name="Changes" comment="Assignment_9&#10;&#10;Prob 3">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="e3b33b07-924a-4e58-a315-a47d98140dea" name="Changes" comment="Assignment_10&#10;&#10;Problem 1" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,38 +46,39 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Assignment_1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Assignment_2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Assignment_3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Assignment_4.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Assignment_5.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Assignment_6.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Car.executor&quot;: &quot;Run&quot;,
-    &quot;Application.EMP.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Employee.executor&quot;: &quot;Run&quot;,
-    &quot;Application.EmployeeInfo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Factorial.executor&quot;: &quot;Run&quot;,
-    &quot;Application.HelloWorld.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main (1).executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main (2).executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main (3).executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Months.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Problem_4.executor&quot;: &quot;Run&quot;,
-    &quot;Application.RomanToIntegerNum.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SumOfEvenOdd.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Table.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TrafficLight.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Vehicle.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/saikr/IdeaProjects/Java Assignments/src/Main.java&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Assignment_1.executor": "Run",
+    "Application.Assignment_2.executor": "Run",
+    "Application.Assignment_3.executor": "Run",
+    "Application.Assignment_4.executor": "Run",
+    "Application.Assignment_5.executor": "Run",
+    "Application.Assignment_6.executor": "Run",
+    "Application.Car.executor": "Run",
+    "Application.EMP.executor": "Run",
+    "Application.Employee.executor": "Run",
+    "Application.EmployeeInfo.executor": "Run",
+    "Application.Factorial.executor": "Run",
+    "Application.HelloWorld.executor": "Run",
+    "Application.Main (1).executor": "Run",
+    "Application.Main (2).executor": "Run",
+    "Application.Main (3).executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.Months.executor": "Run",
+    "Application.Problem1.executor": "Run",
+    "Application.Problem_4.executor": "Run",
+    "Application.RomanToIntegerNum.executor": "Run",
+    "Application.SumOfEvenOdd.executor": "Run",
+    "Application.Table.executor": "Run",
+    "Application.TrafficLight.executor": "Run",
+    "Application.Vehicle.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "C:/Users/saikr/IdeaProjects/Java Assignments/src/Main.java"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="Application.Problem1">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Assignment_9.Main" />
@@ -324,7 +323,15 @@
       <option name="project" value="LOCAL" />
       <updated>1706888627197</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Assignment_10&#10;&#10;Problem 1">
+      <option name="closed" value="true" />
+      <created>1707096023840</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1707096023840</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -351,7 +358,8 @@
     <MESSAGE value="Assignment_9&#10;&#10;Prob 1" />
     <MESSAGE value="Assignment_9&#10;&#10;Prob 2" />
     <MESSAGE value="Assignment_9&#10;&#10;Prob 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Assignment_9&#10;&#10;Prob 3" />
+    <MESSAGE value="Assignment_10&#10;&#10;Problem 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Assignment_10&#10;&#10;Problem 1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
