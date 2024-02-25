@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e3b33b07-924a-4e58-a315-a47d98140dea" name="Changes" comment="Assignment_10&#10;&#10;Problem 3">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment_11/Problem2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,7 +88,7 @@
     &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/saikr/IdeaProjects/Java Assignments/src/Main.java&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Problem1">
+  <component name="RunManager" selected="Application.Problem4">
     <configuration name="Problem1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Assignment_11.Problem1" />
       <module name="Java Assignments" />
@@ -102,25 +102,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Problem3 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Assignment_10.Problem3" />
+    <configuration name="Problem2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Assignment_11.Problem2" />
       <module name="Java Assignments" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Assignment_10.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Problem3 (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Assignment_10.Problem3" />
-      <module name="Java Assignments" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Assignment_10.*" />
+          <option name="PATTERN" value="Assignment_11.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -142,11 +129,24 @@
       </method>
     </configuration>
     <configuration name="Problem3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Assignment_10.Problem3" />
+      <option name="MAIN_CLASS_NAME" value="Assignment_11.Problem3" />
       <module name="Java Assignments" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Assignment_10.*" />
+          <option name="PATTERN" value="Assignment_11.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Problem4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Assignment_11.Problem4" />
+      <module name="Java Assignments" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Assignment_11.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -156,11 +156,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Problem4" />
+        <item itemvalue="Application.Problem3" />
+        <item itemvalue="Application.Problem2" />
         <item itemvalue="Application.Problem1" />
         <item itemvalue="Application.Problem3 (3)" />
-        <item itemvalue="Application.Problem3 (2)" />
-        <item itemvalue="Application.Problem3 (1)" />
-        <item itemvalue="Application.Problem3" />
       </list>
     </recent_temporary>
   </component>
@@ -364,7 +364,15 @@
       <option name="project" value="LOCAL" />
       <updated>1707101442915</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="Assignment_10&#10;&#10;Problem 3">
+      <option name="closed" value="true" />
+      <created>1708880408361</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1708880408361</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
